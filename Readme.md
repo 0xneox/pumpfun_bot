@@ -1,6 +1,6 @@
 # Solana Trading Bot (Telegram + Flask)
 
-This project is a pumpfun trading bot with a Telegram interface and a simple Flask web server for status monitoring. It allows users to interact with the bot via Telegram commands and inline buttons.
+A pumpfun trading bot with a Telegram interface and a simple Flask web server for status monitoring. It allows users to interact with the bot via Telegram commands and inline buttons.
 
 ---
 
