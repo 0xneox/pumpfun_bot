@@ -1,0 +1,11 @@
+{
+    "buy_interval": 10,
+    "sell_interval": 15,
+    "buy_amount_min": 0.05,
+    "buy_amount_max": 0.2,
+    "sell_ratio": 0.75,
+    "slippage": 0.05,
+    "max_cap": 20000,
+    "num_wallets": 5,
+    "target_multiplier": 10
+}
